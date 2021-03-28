@@ -1,0 +1,93 @@
+
+.main-signUp {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 25px 1px 20px;
+    /*background-image:url('https://i.redd.it/o8dlfk93azs31.jpg');*/
+    background-color:rgb(245,245,245);
+}
+
+.form-signUp {
+    display: flex;
+    /*background-color: rgb(180, 180, 180);*/
+    background-color: rgba(0,0,0,0.55);
+    box-shadow:0 1px 0 #cfcfcf;
+    width: 600px;
+    border: transparent;
+    border-color:#d2d2d2;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 40px 25px 20px 25px;
+    border-radius: 2em;
+    flex-wrap: wrap;
+    color:white;
+}
+
+.form-control-input-signUp {
+    background-color: rgb(241, 241, 241);
+    width: 550px;
+    height: 35px;
+    border-radius: 7px;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    margin: 1rem 0rem;
+    padding: 0.5rem 1.5rem;
+}
+
+
+.form-buttons-signUp {
+    width: 550px;
+    height: 35px;
+    border-radius: 7px;
+    border: none;
+    /*padding: 0.5rem 1.5rem;
+    margin: 1rem 0rem;
+    padding: 0.5rem 1.5rem;*/
+}
+
+.login-signUp{
+    display: flex;
+    width: 600px;
+    height: 40px;
+    justify-content: center;
+}
+
+.buttonLogin-signUp{
+    color: rgb(255, 255, 255);
+    background-color: #c93b59;
+}
+
+.buttons-text-signUp{
+    display: flex;
+    justify-content: center;
+    padding: 1px 1px 1px 1px;
+    
+}
+.button-text-signUp{
+    background-color: rgb(59,75,91,.8);
+    border: none;
+    width: 550px;
+    height: 35px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 7px 0px 0px 0px;
+    font-size: 13px;
+}
+  
+@keyframes loginAnimation {
+    from {top: 0px;}
+    to {top: 200px; background-color: rgb(255, 255, 255);}
+}
+a, a:visited, a:hover, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+   
+  }
+
+.danger-signUp{
+    display: flex;
+    justify-content: center;
+    width: 550px
+}
