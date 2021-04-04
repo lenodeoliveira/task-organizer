@@ -1,7 +1,7 @@
 # :superhero: Aplicação para organização de tarefas com React e Firebase :book:
 
 
-## Aplicação construida com Boostrap 4, React, FireBase, Context API, Hooks 
+## Aplicação construída com Boostrap 4, React, FireBase, Context API, Hooks 
 
 ### Formulário de login, autenticação e segurança.
 
