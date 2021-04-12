@@ -1,4 +1,4 @@
-# :superhero: Aplicação para organização de tarefas com React e Firebase :book:
+# :superhero_man: Aplicação para organização de tarefas com React e Firebase :book:
 
 
 ## Aplicação construída com Boostrap 4, React, FireBase, Context API, Hooks 
