@@ -19,9 +19,9 @@
 
 ### :coffee: Implementações futuras :mechanical_arm: :
 
-Tarefas                             | Em execução      |  Feito     |
------------------------------------ | ---------------- | -----------|
-Campo de busca por título de tarefa |   :hourglass:    |            |
-Edição de tarefa.                   |   :hourglass:    |            |
-Melhorar estilização.               |   :hourglass:    |            | 
-Atualização de perfil.              |   :hourglass:    |            |
+Tarefas                             | Em execução      |  Feito           |
+----------------------------------- | ---------------- | -----------------|
+Campo de busca por título de tarefa |   :hourglass:    |                  |
+Edição de tarefa.                   |                  |:heavy_check_mark:|
+Melhorar estilização.               |   :hourglass:    |                  | 
+Atualização de perfil.              |   :hourglass:    |                  |
