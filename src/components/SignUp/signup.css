@@ -1,17 +1,15 @@
-
+/* 
 .main-signUp {
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
     padding: 1px 25px 1px 20px;
-    /*background-image:url('https://i.redd.it/o8dlfk93azs31.jpg');*/
     background-color:rgb(245,245,245);
 }
 
 .form-signUp {
     display: flex;
-    /*background-color: rgb(180, 180, 180);*/
     background-color: rgba(0,0,0,0.55);
     box-shadow:0 1px 0 #cfcfcf;
     width: 600px;
@@ -42,9 +40,6 @@
     height: 35px;
     border-radius: 7px;
     border: none;
-    /*padding: 0.5rem 1.5rem;
-    margin: 1rem 0rem;
-    padding: 0.5rem 1.5rem;*/
 }
 
 .login-signUp{
@@ -90,4 +85,4 @@ a, a:visited, a:hover, a:active {
     display: flex;
     justify-content: center;
     width: 550px
-}
+} */
